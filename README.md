@@ -21,8 +21,6 @@ I am **Arjun**, a passionate full-stack MERN developer and React Native enthusia
 ### 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun059&layout=compact&theme=radical)
 
-### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=Arjun059&theme=highcontrast)
 
 Thanks for visiting my profile!
 
