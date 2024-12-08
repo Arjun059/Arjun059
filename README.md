@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am **Arjun**, a passionate full-stack MERN developer and React Native enthusiast.
+I am **Arjun**, a passionate full-stack **MERN developer** and React Native enthusiast.
 
 ### 🚀 Skills and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
