@@ -21,7 +21,9 @@ I am **Arjun**, a passionate full-stack MERN developer and React Native enthusia
 ### 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun059&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Arjun059&color=blue)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArjun059&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
 
 Thanks for visiting my profile!
 
