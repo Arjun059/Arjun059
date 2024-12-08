@@ -23,5 +23,6 @@ I am **Arjun**, a passionate full-stack MERN developer and React Native enthusia
 
 
 
-Thanks for visiting my profile! ![Profile Views](https://komarev.com/ghpvc/?username=Arjun059&color=blue)
+Thanks for visiting my profile
+![Views](https://komarev.com/ghpvc/?username=Arjun059&color=blue)
 
