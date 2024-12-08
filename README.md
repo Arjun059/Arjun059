@@ -19,11 +19,11 @@ I am **Arjun**, a passionate full-stack MERN developer and React Native enthusia
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 📊 GitHub Stats:
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arjun059&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun059&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Arjun059&theme=highcontrast)
 
 Thanks for visiting my profile!
 
