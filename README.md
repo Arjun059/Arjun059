@@ -19,6 +19,7 @@ I am **Arjun**, a passionate full-stack **MERN developer** and React Native enth
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 📊 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun059&layout=compact&theme=radical)
 
 
 Thanks for visiting my profile!
